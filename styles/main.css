@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+  @apply no-underline font-semibold text-black hover:no-underline transition ease-in-out duration-100 !important;
+}
+
+h1 {
+  @apply font-bold text-3xl text-black !important;
+}
+
+h2 {
+  @apply font-bold text-xl text-black pb-4;
+}
+
+p {
+  @apply leading-normal text-black;
+}
+
+.footer {
+  @apply hidden !important;
+}

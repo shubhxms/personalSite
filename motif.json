@@ -1,0 +1,28 @@
+{
+  "gaMeasurementId": "UA-4094082-1",
+  "templates": {
+    "**/*": "plain",
+    "/pages": "plain",
+    "8pen": "blog",
+    "my-favorite-things": "plain",
+    "notes": "plain",
+    "test": "",
+    "index-new": "home-new",
+    "home": "home-new",
+    "drafts/my-favorite-things": "drafts"
+  },
+  "head": [
+    "<meta name='viewport' content='width=device-width, initial-scale=1.0' />",
+    "<meta name='og:title' content='Michael Fester' />",
+    "<meta name='og:description' content='Michael Fester\\'s homepage' />",
+    "<meta name='og:image' content='https://res.cloudinary.com/djp21wtxm/image/upload/v1611070110/1500x500_qwcrdy.jpg' />",
+    "<link rel='shortcut icon' href='https://res.cloudinary.com/djp21wtxm/image/upload/v1608721831/qkz03ayywyjlpqss545o.png' />",
+    "<link rel='preconnect' href='https://fonts.googleapis.com' />",
+    "<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />",
+    "<link href='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap' rel='stylesheet' />",
+    "<link href='https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap' rel='stylesheet' />",
+    "<link href='https://fonts.googleapis.com/css2?family=Sacramento&display=swap' rel='stylesheet' />",
+    "<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css' crossorigin='anonymous' />",
+    "<script src='https://www.googleoptimize.com/optimize.js?id=OPT-WNNBPRW'></script>"
+  ]
+}
